@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 1999-2016. Parallels IP Holdings GmbH. -->
+<module>
+    <id>promo</id>
+    <name>Promo Examples</name>
+    <description>Demonstrates how to add promo blocks.</description>
+    <url>https://github.com/plesk/ext-promo</url>
+    <version>1.0</version>
+    <release>0</release>
+    <vendor>Plesk</vendor>
+    <plesk_min_version>11.0.0</plesk_min_version>
+</module>

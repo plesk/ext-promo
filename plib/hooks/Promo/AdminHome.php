@@ -3,4 +3,5 @@
 
 class Modules_Promo_Promo_AdminHome extends pm_Promo_AdminHome
 {
+    use Modules_Promo_PromoTrait;
 }
